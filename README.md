@@ -6,7 +6,7 @@
 
 3️⃣ Furthermore, I am also a **co-founder of [Filos](https://www.filoschat.com/)**, an AI-productivity based Startup incubated in both San Diego and Lausanne. 🚀
 
-📱 Follow me on my socials if you desire to stay updated on my projects (& more) 😄
+📱 Follow me on my socials if you desire to stay updated on my projects (& more)! 😄
 
 <!--
 **Awe-n/Awe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
