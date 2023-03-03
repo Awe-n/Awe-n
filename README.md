@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-As a Cybersecurity student pursuing a double master's degree at **EPFL/ETH**, I work part-time at **Strong Network** as a Security and Market Researcher.
+1️⃣ As a Cybersecurity student pursuing a double master's degree at **EPFL/ETH**, I work part-time at **Strong Network** as a Security and Market Researcher.
 
-In addition to this, I am currently developing **my own e-commerce website called AKPA**, which will be released soon. 
-Furthermore, I am also a **co-founder of Filos**, an AI-productivity based Startup incubated in both San Diego and Lausanne.
+2️⃣ In addition to this, I am currently developing **my own e-commerce website called AKPA**, which will be released soon. 
 
-Follow me on my socials if you desire to stay updated on my projects (& more) 😄
+3️⃣ Furthermore, I am also a **co-founder of Filos**, an AI-productivity based Startup incubated in both San Diego and Lausanne. 🚀
+
+📱 Follow me on my socials if you desire to stay updated on my projects (& more) 😄
 
 <!--
 **Awe-n/Awe-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
