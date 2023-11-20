@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-1️⃣ As a Cybersecurity student pursuing a double master's degree at **EPFL/ETH**, I work part-time at **Strong Network** as a Security and Market Researcher.
+1️⃣ As a CS student pursuing a master's degree at **EPFL**, I work part-time at **[Strong Network](https://strong.network/)** as a Founder's Associate.
 
-2️⃣ In addition to this, I am currently developing **my own e-commerce website called [AKPA](https://akpa.ch/)**, which will be released soon. 
+2️⃣ In addition to this, I am also a **co-founder of [Filos](https://www.getfilos.io/)**, an IOS App to help you spend less time on your phone 🚀
 
-3️⃣ Furthermore, I am also a **co-founder of [Filos](https://www.filoschat.com/)**, an AI-productivity based Startup incubated in both San Diego and Lausanne. 🚀
+3️⃣ Furthermore, I am currently developing **my own e-commerce website called [AKPA](https://akpa.ch/)**, which will be released soon. 
 
 📱 Follow me on my socials if you desire to stay updated on my projects (& more)! 😄
 
