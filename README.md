@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-1️⃣ As a CS student pursuing a master's degree at **EPFL**, I work part-time at **[Strong Network](https://strong.network/)** as a Founder's Associate.
+1️⃣ I am a **co-founder of [Filos](https://www.getfilos.io/)**, an IOS App to help you spend less time on your phone 🧠
 
-2️⃣ In addition to this, I am also a **co-founder of [Filos](https://www.getfilos.io/)**, an IOS App to help you spend less time on your phone 🚀
+🚀 **[Download Filos Here](https://apps.apple.com/us/app/filos-digital-detox-companion/id6450723324)**
 
-3️⃣ Furthermore, I am currently developing **my own e-commerce website called [AKPA](https://akpa.ch/)**, which will be released soon. 
+2️⃣ In addition to this, I am a CS student pursuing a master's degree at **EPFL** while working work part-time at **[Strong Network](https://strong.network/)** as a Founder's Associate.
+
+3️⃣ Furthermore, I am currently developing **my own e-commerce website called [AKPA](https://akpa.ch/)** (on hold).
 
 📱 Follow me on my socials if you desire to stay updated on my projects (& more)! 😄
 
